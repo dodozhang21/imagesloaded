@@ -2,25 +2,5 @@
   "name": "imagesloaded",
   "version": "2.1.2",
   "description": "JavaScript is all like _You images done yet or what?_",
-  "main": "imagesloaded.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/desandro/imagesloaded.git"
-  },
-  "keywords": [
-    "images",
-    "loaded",
-    "ui",
-    "dom",
-    "jquery-plugin"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/desandro/imagesloaded/issues"
-  },
-  "homepage": "https://github.com/desandro/imagesloaded",
-  "directories": {
-    "test": "test"
-  },
   "author": "David DeSandro"
 }
